@@ -66,6 +66,11 @@ def Main(operation, args):
                 count += 1
             return count
 
+        elif operation == 'tokensOf_test':
+            assert len(args) == 1, ARG_ERROR
+            assert len(args[0]) == 20, INVALID_ADDRESS_ERROR
+            return Find(ctx, args[0])
+
         elif operation == 'tokensOf': #gehen nicht mit invoke
             assert len(args) == 1, ARG_ERROR
             assert len(args[0]) == 20, INVALID_ADDRESS_ERROR

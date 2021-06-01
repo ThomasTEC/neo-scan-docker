@@ -1,0 +1,153 @@
+{
+    "avm": {
+        "name": "StorageContract",
+        "hash": "a55581c361c3d573bd3a2f7cbf153e05"
+    },
+    "compiler": {
+        "name": "neo-boa",
+        "version": "0.5.6"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "/neo-python/smart-contracts/StorageContract.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 14,
+            "end": 20,
+            "file": 1,
+            "method": "Main",
+            "line": 3,
+            "file_line_no": 8
+        },
+        {
+            "start": 21,
+            "end": 37,
+            "file": 1,
+            "method": "Main",
+            "line": 4,
+            "file_line_no": 9
+        },
+        {
+            "start": 38,
+            "end": 67,
+            "file": 1,
+            "method": "Main",
+            "line": 2,
+            "file_line_no": 7
+        },
+        {
+            "start": 68,
+            "end": 80,
+            "file": 1,
+            "method": "Main",
+            "line": 4,
+            "file_line_no": 9
+        },
+        {
+            "start": 81,
+            "end": 107,
+            "file": 1,
+            "method": "Main",
+            "line": 5,
+            "file_line_no": 10
+        },
+        {
+            "start": 108,
+            "end": 112,
+            "file": 1,
+            "method": "Main",
+            "line": 6,
+            "file_line_no": 11
+        },
+        {
+            "start": 113,
+            "end": 128,
+            "file": 1,
+            "method": "Main",
+            "line": 8,
+            "file_line_no": 13
+        },
+        {
+            "start": 129,
+            "end": 157,
+            "file": 1,
+            "method": "Main",
+            "line": 9,
+            "file_line_no": 14
+        },
+        {
+            "start": 158,
+            "end": 173,
+            "file": 1,
+            "method": "Main",
+            "line": 11,
+            "file_line_no": 16
+        },
+        {
+            "start": 174,
+            "end": 180,
+            "file": 1,
+            "method": "Main",
+            "line": 12,
+            "file_line_no": 17
+        },
+        {
+            "start": 181,
+            "end": 193,
+            "file": 1,
+            "method": "Main",
+            "line": 14,
+            "file_line_no": 19
+        },
+        {
+            "start": 194,
+            "end": 223,
+            "file": 1,
+            "method": "Main",
+            "line": 15,
+            "file_line_no": 20
+        },
+        {
+            "start": 224,
+            "end": 233,
+            "file": 1,
+            "method": "Main",
+            "line": 16,
+            "file_line_no": 21
+        },
+        {
+            "start": 234,
+            "end": 262,
+            "file": 1,
+            "method": "Main",
+            "line": 17,
+            "file_line_no": 22
+        },
+        {
+            "start": 263,
+            "end": 267,
+            "file": 1,
+            "method": "Main",
+            "line": 18,
+            "file_line_no": 23
+        },
+        {
+            "start": 268,
+            "end": 302,
+            "file": 1,
+            "method": "Main",
+            "line": 21,
+            "file_line_no": 26
+        },
+        {
+            "start": 303,
+            "end": 310,
+            "file": 1,
+            "line": 22
+        }
+    ],
+    "breakpoints": []
+}

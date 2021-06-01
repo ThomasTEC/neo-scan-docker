@@ -1,0 +1,73 @@
+{
+    "avm": {
+        "name": "collector",
+        "hash": "ab0da53ea2eb7ede48c8b340eae131dc"
+    },
+    "compiler": {
+        "name": "neo-boa",
+        "version": "0.5.6"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "/neo-python/smart-contracts/collector.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 3,
+            "end": 43,
+            "file": 1,
+            "method": "Main",
+            "line": 2,
+            "file_line_no": 8
+        },
+        {
+            "start": 44,
+            "end": 50,
+            "file": 1,
+            "method": "Main",
+            "line": 3,
+            "file_line_no": 9
+        },
+        {
+            "start": 51,
+            "end": 58,
+            "file": 1,
+            "method": "Main",
+            "line": 4,
+            "file_line_no": 10
+        },
+        {
+            "start": 59,
+            "end": 95,
+            "file": 1,
+            "method": "Main",
+            "line": 5,
+            "file_line_no": 11
+        },
+        {
+            "start": 96,
+            "end": 123,
+            "file": 1,
+            "method": "Main",
+            "line": 6,
+            "file_line_no": 12
+        },
+        {
+            "start": 124,
+            "end": 139,
+            "file": 1,
+            "method": "Main",
+            "line": 7,
+            "file_line_no": 13
+        },
+        {
+            "start": 140,
+            "end": 145,
+            "file": 1,
+            "line": 8
+        }
+    ],
+    "breakpoints": []
+}

@@ -1,0 +1,885 @@
+{
+    "avm": {
+        "name": "NEP_11_debug_renew",
+        "hash": "4d0b8ad652273dd205e061ebcc55ff83"
+    },
+    "compiler": {
+        "name": "neo-boa",
+        "version": "0.5.6"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "/neo-python/smart-contracts/NEP_11_debug_renew.py"
+        },
+        {
+            "id": 2,
+            "url": "/usr/local/lib/python3.6/dist-packages/boa/builtins.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 14,
+            "end": 39,
+            "file": 1,
+            "method": "Main",
+            "line": 14,
+            "file_line_no": 43
+        },
+        {
+            "start": 40,
+            "end": 54,
+            "file": 1,
+            "method": "Main",
+            "line": 15,
+            "file_line_no": 44
+        },
+        {
+            "start": 55,
+            "end": 63,
+            "file": 1,
+            "method": "Main",
+            "line": 16,
+            "file_line_no": 45
+        },
+        {
+            "start": 64,
+            "end": 69,
+            "file": 1,
+            "method": "Main",
+            "line": 17,
+            "file_line_no": 46
+        },
+        {
+            "start": 70,
+            "end": 89,
+            "file": 1,
+            "method": "Main",
+            "line": 18,
+            "file_line_no": 47
+        },
+        {
+            "start": 90,
+            "end": 115,
+            "file": 1,
+            "method": "Main",
+            "line": 25,
+            "file_line_no": 54
+        },
+        {
+            "start": 116,
+            "end": 136,
+            "file": 1,
+            "method": "Main",
+            "line": 26,
+            "file_line_no": 55
+        },
+        {
+            "start": 137,
+            "end": 162,
+            "file": 1,
+            "method": "Main",
+            "line": 27,
+            "file_line_no": 56
+        },
+        {
+            "start": 163,
+            "end": 192,
+            "file": 1,
+            "method": "Main",
+            "line": 2,
+            "file_line_no": 31
+        },
+        {
+            "start": 193,
+            "end": 201,
+            "file": 1,
+            "method": "Main",
+            "line": 3,
+            "file_line_no": 32
+        },
+        {
+            "start": 202,
+            "end": 241,
+            "file": 1,
+            "method": "Main",
+            "line": 4,
+            "file_line_no": 33
+        },
+        {
+            "start": 242,
+            "end": 246,
+            "file": 1,
+            "method": "Main",
+            "line": 5,
+            "file_line_no": 34
+        },
+        {
+            "start": 247,
+            "end": 255,
+            "file": 1,
+            "method": "Main",
+            "line": 7,
+            "file_line_no": 36
+        },
+        {
+            "start": 256,
+            "end": 285,
+            "file": 1,
+            "method": "Main",
+            "line": 9,
+            "file_line_no": 38
+        },
+        {
+            "start": 286,
+            "end": 297,
+            "file": 1,
+            "method": "Main",
+            "line": 11,
+            "file_line_no": 40
+        },
+        {
+            "start": 298,
+            "end": 304,
+            "file": 1,
+            "method": "Main",
+            "line": 12,
+            "file_line_no": 41
+        },
+        {
+            "start": 305,
+            "end": 318,
+            "file": 1,
+            "method": "Main",
+            "line": 14,
+            "file_line_no": 43
+        },
+        {
+            "start": 319,
+            "end": 325,
+            "file": 1,
+            "method": "Main",
+            "line": 15,
+            "file_line_no": 44
+        },
+        {
+            "start": 326,
+            "end": 351,
+            "file": 1,
+            "method": "Main",
+            "line": 17,
+            "file_line_no": 46
+        },
+        {
+            "start": 352,
+            "end": 397,
+            "file": 1,
+            "method": "Main",
+            "line": 18,
+            "file_line_no": 47
+        },
+        {
+            "start": 398,
+            "end": 416,
+            "file": 1,
+            "method": "Main",
+            "line": 20,
+            "file_line_no": 49
+        },
+        {
+            "start": 417,
+            "end": 445,
+            "file": 1,
+            "method": "Main",
+            "line": 21,
+            "file_line_no": 50
+        },
+        {
+            "start": 446,
+            "end": 461,
+            "file": 1,
+            "method": "Main",
+            "line": 23,
+            "file_line_no": 52
+        },
+        {
+            "start": 462,
+            "end": 468,
+            "file": 1,
+            "method": "Main",
+            "line": 24,
+            "file_line_no": 53
+        },
+        {
+            "start": 469,
+            "end": 483,
+            "file": 1,
+            "method": "Main",
+            "line": 26,
+            "file_line_no": 55
+        },
+        {
+            "start": 484,
+            "end": 499,
+            "file": 1,
+            "method": "Main",
+            "line": 27,
+            "file_line_no": 56
+        },
+        {
+            "start": 500,
+            "end": 516,
+            "file": 1,
+            "method": "Main",
+            "line": 28,
+            "file_line_no": 57
+        },
+        {
+            "start": 517,
+            "end": 530,
+            "file": 1,
+            "method": "Main",
+            "line": 29,
+            "file_line_no": 58
+        },
+        {
+            "start": 531,
+            "end": 547,
+            "file": 1,
+            "method": "Main",
+            "line": 31,
+            "file_line_no": 60
+        },
+        {
+            "start": 548,
+            "end": 563,
+            "file": 1,
+            "method": "Main",
+            "line": 32,
+            "file_line_no": 61
+        },
+        {
+            "start": 564,
+            "end": 583,
+            "file": 1,
+            "method": "Main",
+            "line": 33,
+            "file_line_no": 62
+        },
+        {
+            "start": 584,
+            "end": 616,
+            "file": 1,
+            "method": "Main",
+            "line": 34,
+            "file_line_no": 63
+        },
+        {
+            "start": 617,
+            "end": 622,
+            "file": 1,
+            "method": "Main",
+            "line": 35,
+            "file_line_no": 64
+        },
+        {
+            "start": 623,
+            "end": 651,
+            "file": 1,
+            "method": "Main",
+            "line": 36,
+            "file_line_no": 65
+        },
+        {
+            "start": 652,
+            "end": 668,
+            "file": 1,
+            "method": "Main",
+            "line": 37,
+            "file_line_no": 66
+        },
+        {
+            "start": 669,
+            "end": 675,
+            "file": 1,
+            "method": "Main",
+            "line": 38,
+            "file_line_no": 67
+        },
+        {
+            "start": 676,
+            "end": 696,
+            "file": 1,
+            "method": "Main",
+            "line": 40,
+            "file_line_no": 69
+        },
+        {
+            "start": 697,
+            "end": 712,
+            "file": 1,
+            "method": "Main",
+            "line": 41,
+            "file_line_no": 70
+        },
+        {
+            "start": 713,
+            "end": 731,
+            "file": 1,
+            "method": "Main",
+            "line": 42,
+            "file_line_no": 71
+        },
+        {
+            "start": 732,
+            "end": 763,
+            "file": 1,
+            "method": "Main",
+            "line": 43,
+            "file_line_no": 72
+        },
+        {
+            "start": 764,
+            "end": 779,
+            "file": 1,
+            "method": "Main",
+            "line": 45,
+            "file_line_no": 74
+        },
+        {
+            "start": 780,
+            "end": 795,
+            "file": 1,
+            "method": "Main",
+            "line": 46,
+            "file_line_no": 75
+        },
+        {
+            "start": 796,
+            "end": 814,
+            "file": 1,
+            "method": "Main",
+            "line": 47,
+            "file_line_no": 76
+        },
+        {
+            "start": 815,
+            "end": 848,
+            "file": 1,
+            "method": "Main",
+            "line": 48,
+            "file_line_no": 77
+        },
+        {
+            "start": 849,
+            "end": 856,
+            "file": 1,
+            "method": "Main",
+            "line": 49,
+            "file_line_no": 78
+        },
+        {
+            "start": 857,
+            "end": 884,
+            "file": 1,
+            "method": "Main",
+            "line": 50,
+            "file_line_no": 79
+        },
+        {
+            "start": 885,
+            "end": 918,
+            "file": 1,
+            "method": "Main",
+            "line": 51,
+            "file_line_no": 80
+        },
+        {
+            "start": 919,
+            "end": 938,
+            "file": 1,
+            "method": "Main",
+            "line": 52,
+            "file_line_no": 81
+        },
+        {
+            "start": 939,
+            "end": 945,
+            "file": 1,
+            "method": "Main",
+            "line": 53,
+            "file_line_no": 82
+        },
+        {
+            "start": 946,
+            "end": 963,
+            "file": 1,
+            "method": "Main",
+            "line": 55,
+            "file_line_no": 84
+        },
+        {
+            "start": 964,
+            "end": 979,
+            "file": 1,
+            "method": "Main",
+            "line": 56,
+            "file_line_no": 85
+        },
+        {
+            "start": 980,
+            "end": 996,
+            "file": 1,
+            "method": "Main",
+            "line": 57,
+            "file_line_no": 86
+        },
+        {
+            "start": 997,
+            "end": 1015,
+            "file": 1,
+            "method": "Main",
+            "line": 58,
+            "file_line_no": 87
+        },
+        {
+            "start": 1016,
+            "end": 1031,
+            "file": 1,
+            "method": "Main",
+            "line": 60,
+            "file_line_no": 89
+        },
+        {
+            "start": 1032,
+            "end": 1047,
+            "file": 1,
+            "method": "Main",
+            "line": 61,
+            "file_line_no": 90
+        },
+        {
+            "start": 1048,
+            "end": 1058,
+            "file": 1,
+            "method": "Main",
+            "line": 62,
+            "file_line_no": 91
+        },
+        {
+            "start": 1059,
+            "end": 1069,
+            "file": 1,
+            "method": "Main",
+            "line": 63,
+            "file_line_no": 92
+        },
+        {
+            "start": 1070,
+            "end": 1087,
+            "file": 1,
+            "method": "Main",
+            "line": 65,
+            "file_line_no": 94
+        },
+        {
+            "start": 1088,
+            "end": 1104,
+            "file": 1,
+            "method": "Main",
+            "line": 67,
+            "file_line_no": 96
+        },
+        {
+            "start": 1105,
+            "end": 1120,
+            "file": 1,
+            "method": "Main",
+            "line": 68,
+            "file_line_no": 97
+        },
+        {
+            "start": 1121,
+            "end": 1138,
+            "file": 1,
+            "method": "Main",
+            "line": 70,
+            "file_line_no": 99
+        },
+        {
+            "start": 1139,
+            "end": 1179,
+            "file": 1,
+            "method": "Main",
+            "line": 72,
+            "file_line_no": 101
+        },
+        {
+            "start": 1180,
+            "end": 1194,
+            "file": 1,
+            "method": "Main",
+            "line": 74,
+            "file_line_no": 103
+        },
+        {
+            "start": 1195,
+            "end": 1228,
+            "file": 1,
+            "method": "Main",
+            "line": 75,
+            "file_line_no": 104
+        },
+        {
+            "start": 1229,
+            "end": 1270,
+            "file": 1,
+            "method": "Main",
+            "line": 76,
+            "file_line_no": 105
+        },
+        {
+            "start": 1271,
+            "end": 1334,
+            "file": 1,
+            "method": "Main",
+            "line": 78,
+            "file_line_no": 107
+        },
+        {
+            "start": 1335,
+            "end": 1353,
+            "file": 1,
+            "method": "Main",
+            "line": 79,
+            "file_line_no": 108
+        },
+        {
+            "start": 1354,
+            "end": 1370,
+            "file": 1,
+            "method": "Main",
+            "line": 81,
+            "file_line_no": 110
+        },
+        {
+            "start": 1371,
+            "end": 1410,
+            "file": 1,
+            "method": "Main",
+            "line": 82,
+            "file_line_no": 111
+        },
+        {
+            "start": 1411,
+            "end": 1426,
+            "file": 1,
+            "method": "Main",
+            "line": 83,
+            "file_line_no": 112
+        },
+        {
+            "start": 1427,
+            "end": 1457,
+            "file": 1,
+            "method": "Main",
+            "line": 85,
+            "file_line_no": 114
+        },
+        {
+            "start": 1458,
+            "end": 1469,
+            "file": 1,
+            "method": "Main",
+            "line": 86,
+            "file_line_no": 115
+        },
+        {
+            "start": 1470,
+            "end": 1488,
+            "file": 1,
+            "method": "Main",
+            "line": 88,
+            "file_line_no": 117
+        },
+        {
+            "start": 1489,
+            "end": 1517,
+            "file": 1,
+            "method": "Main",
+            "line": 89,
+            "file_line_no": 118
+        },
+        {
+            "start": 1518,
+            "end": 1548,
+            "file": 1,
+            "method": "Main",
+            "line": 90,
+            "file_line_no": 119
+        },
+        {
+            "start": 1549,
+            "end": 1574,
+            "file": 1,
+            "method": "Main",
+            "line": 91,
+            "file_line_no": 120
+        },
+        {
+            "start": 1575,
+            "end": 1585,
+            "file": 1,
+            "method": "Main",
+            "line": 93,
+            "file_line_no": 122
+        },
+        {
+            "start": 1586,
+            "end": 1625,
+            "file": 1,
+            "method": "Main",
+            "line": 94,
+            "file_line_no": 123
+        },
+        {
+            "start": 1626,
+            "end": 1658,
+            "file": 1,
+            "method": "Main",
+            "line": 95,
+            "file_line_no": 124
+        },
+        {
+            "start": 1659,
+            "end": 1664,
+            "file": 1,
+            "method": "Main",
+            "line": 97,
+            "file_line_no": 126
+        },
+        {
+            "start": 1665,
+            "end": 1676,
+            "file": 1,
+            "method": "Main",
+            "line": 99,
+            "file_line_no": 128
+        },
+        {
+            "start": 1677,
+            "end": 1697,
+            "file": 1,
+            "method": "Main",
+            "line": 100,
+            "file_line_no": 129
+        },
+        {
+            "start": 1698,
+            "end": 1713,
+            "file": 1,
+            "method": "Main",
+            "line": 101,
+            "file_line_no": 130
+        },
+        {
+            "start": 1714,
+            "end": 1755,
+            "file": 1,
+            "method": "Main",
+            "line": 103,
+            "file_line_no": 132
+        },
+        {
+            "start": 1756,
+            "end": 1785,
+            "file": 1,
+            "method": "Main",
+            "line": 104,
+            "file_line_no": 133
+        },
+        {
+            "start": 1786,
+            "end": 1852,
+            "file": 1,
+            "method": "Main",
+            "line": 106,
+            "file_line_no": 135
+        },
+        {
+            "start": 1853,
+            "end": 1871,
+            "file": 1,
+            "method": "Main",
+            "line": 107,
+            "file_line_no": 136
+        },
+        {
+            "start": 1872,
+            "end": 1904,
+            "file": 1,
+            "method": "AssertionError",
+            "line": 109,
+            "file_line_no": 259
+        },
+        {
+            "start": 1905,
+            "end": 1935,
+            "file": 1,
+            "method": "AssertionError",
+            "line": 2,
+            "file_line_no": 152
+        },
+        {
+            "start": 1936,
+            "end": 1961,
+            "file": 1,
+            "method": "save_token",
+            "line": 3,
+            "file_line_no": 148
+        },
+        {
+            "start": 1962,
+            "end": 1993,
+            "file": 1,
+            "method": "save_token",
+            "line": 2,
+            "file_line_no": 147
+        },
+        {
+            "start": 1994,
+            "end": 2030,
+            "file": 1,
+            "method": "save_token",
+            "line": 3,
+            "file_line_no": 148
+        },
+        {
+            "start": 2031,
+            "end": 2047,
+            "file": 1,
+            "method": "get_token",
+            "line": 4,
+            "file_line_no": 143
+        },
+        {
+            "start": 2048,
+            "end": 2073,
+            "file": 1,
+            "method": "get_token",
+            "line": 28,
+            "file_line_no": 167
+        },
+        {
+            "start": 2074,
+            "end": 2111,
+            "file": 1,
+            "method": "get_token",
+            "line": 2,
+            "file_line_no": 141
+        },
+        {
+            "start": 2112,
+            "end": 2127,
+            "file": 1,
+            "method": "get_token",
+            "line": 3,
+            "file_line_no": 142
+        },
+        {
+            "start": 2128,
+            "end": 2161,
+            "file": 1,
+            "method": "get_token",
+            "line": 4,
+            "file_line_no": 143
+        },
+        {
+            "start": 2162,
+            "end": 2180,
+            "file": 2,
+            "method": "range",
+            "line": 5,
+            "file_line_no": 78
+        },
+        {
+            "start": 2181,
+            "end": 2192,
+            "file": 2,
+            "method": "range",
+            "line": 9,
+            "file_line_no": 82
+        },
+        {
+            "start": 2193,
+            "end": 2201,
+            "file": 2,
+            "method": "range",
+            "line": 11,
+            "file_line_no": 84
+        },
+        {
+            "start": 2202,
+            "end": 2207,
+            "file": 2,
+            "method": "range",
+            "line": 13,
+            "file_line_no": 86
+        },
+        {
+            "start": 2208,
+            "end": 2215,
+            "file": 2,
+            "method": "range",
+            "line": 15,
+            "file_line_no": 88
+        },
+        {
+            "start": 2216,
+            "end": 2227,
+            "file": 2,
+            "method": "range",
+            "line": 17,
+            "file_line_no": 90
+        },
+        {
+            "start": 2228,
+            "end": 2239,
+            "file": 2,
+            "method": "range",
+            "line": 18,
+            "file_line_no": 91
+        },
+        {
+            "start": 2240,
+            "end": 2250,
+            "file": 2,
+            "method": "range",
+            "line": 19,
+            "file_line_no": 92
+        },
+        {
+            "start": 2251,
+            "end": 2260,
+            "file": 2,
+            "method": "range",
+            "line": 20,
+            "file_line_no": 93
+        },
+        {
+            "start": 2261,
+            "end": 2278,
+            "file": 2,
+            "method": "range",
+            "line": 21,
+            "file_line_no": 94
+        },
+        {
+            "start": 2279,
+            "end": 2284,
+            "file": 2,
+            "line": 23
+        }
+    ],
+    "breakpoints": []
+}

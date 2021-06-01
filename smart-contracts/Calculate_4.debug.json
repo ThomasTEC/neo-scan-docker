@@ -1,0 +1,153 @@
+{
+    "avm": {
+        "name": "Calculate_4",
+        "hash": "d37e90d4c7a0ffd40c9bdcc9ca3a53b1"
+    },
+    "compiler": {
+        "name": "neo-boa",
+        "version": "0.5.6"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "/neo-python/smart-contracts/Calculate_4.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 14,
+            "end": 23,
+            "file": 1,
+            "method": "Main",
+            "line": 3,
+            "file_line_no": 3
+        },
+        {
+            "start": 24,
+            "end": 33,
+            "file": 1,
+            "method": "Main",
+            "line": 4,
+            "file_line_no": 4
+        },
+        {
+            "start": 34,
+            "end": 53,
+            "file": 1,
+            "method": "Main",
+            "line": 6,
+            "file_line_no": 6
+        },
+        {
+            "start": 54,
+            "end": 64,
+            "file": 1,
+            "method": "Main",
+            "line": 8,
+            "file_line_no": 8
+        },
+        {
+            "start": 65,
+            "end": 79,
+            "file": 1,
+            "method": "Main",
+            "line": 9,
+            "file_line_no": 9
+        },
+        {
+            "start": 80,
+            "end": 86,
+            "file": 1,
+            "method": "Main",
+            "line": 10,
+            "file_line_no": 10
+        },
+        {
+            "start": 87,
+            "end": 97,
+            "file": 1,
+            "method": "Main",
+            "line": 12,
+            "file_line_no": 12
+        },
+        {
+            "start": 98,
+            "end": 112,
+            "file": 1,
+            "method": "Main",
+            "line": 13,
+            "file_line_no": 13
+        },
+        {
+            "start": 113,
+            "end": 119,
+            "file": 1,
+            "method": "Main",
+            "line": 14,
+            "file_line_no": 14
+        },
+        {
+            "start": 120,
+            "end": 130,
+            "file": 1,
+            "method": "Main",
+            "line": 16,
+            "file_line_no": 16
+        },
+        {
+            "start": 131,
+            "end": 145,
+            "file": 1,
+            "method": "Main",
+            "line": 17,
+            "file_line_no": 17
+        },
+        {
+            "start": 146,
+            "end": 152,
+            "file": 1,
+            "method": "Main",
+            "line": 18,
+            "file_line_no": 18
+        },
+        {
+            "start": 153,
+            "end": 163,
+            "file": 1,
+            "method": "Main",
+            "line": 20,
+            "file_line_no": 20
+        },
+        {
+            "start": 164,
+            "end": 178,
+            "file": 1,
+            "method": "Main",
+            "line": 21,
+            "file_line_no": 21
+        },
+        {
+            "start": 179,
+            "end": 185,
+            "file": 1,
+            "method": "Main",
+            "line": 22,
+            "file_line_no": 22
+        },
+        {
+            "start": 186,
+            "end": 206,
+            "file": 1,
+            "method": "div",
+            "line": 25,
+            "file_line_no": 60
+        },
+        {
+            "start": 207,
+            "end": 285,
+            "file": 1,
+            "line": 2
+        }
+    ],
+    "breakpoints": []
+}

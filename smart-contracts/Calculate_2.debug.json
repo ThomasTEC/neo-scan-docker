@@ -1,0 +1,89 @@
+{
+    "avm": {
+        "name": "Calculate_2",
+        "hash": "a2eb30c8bf67cb7b97305a04450a8b35"
+    },
+    "compiler": {
+        "name": "neo-boa",
+        "version": "0.5.6"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "/neo-python/smart-contracts/Calculate_2.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 13,
+            "end": 23,
+            "file": 1,
+            "method": "Main",
+            "line": 3,
+            "file_line_no": 3
+        },
+        {
+            "start": 24,
+            "end": 28,
+            "file": 1,
+            "method": "Main",
+            "line": 4,
+            "file_line_no": 4
+        },
+        {
+            "start": 29,
+            "end": 39,
+            "file": 1,
+            "method": "Main",
+            "line": 6,
+            "file_line_no": 6
+        },
+        {
+            "start": 40,
+            "end": 44,
+            "file": 1,
+            "method": "Main",
+            "line": 7,
+            "file_line_no": 7
+        },
+        {
+            "start": 45,
+            "end": 55,
+            "file": 1,
+            "method": "Main",
+            "line": 9,
+            "file_line_no": 9
+        },
+        {
+            "start": 56,
+            "end": 60,
+            "file": 1,
+            "method": "Main",
+            "line": 10,
+            "file_line_no": 10
+        },
+        {
+            "start": 61,
+            "end": 71,
+            "file": 1,
+            "method": "Main",
+            "line": 12,
+            "file_line_no": 12
+        },
+        {
+            "start": 72,
+            "end": 76,
+            "file": 1,
+            "method": "Main",
+            "line": 13,
+            "file_line_no": 13
+        },
+        {
+            "start": 77,
+            "end": 84,
+            "file": 1,
+            "line": 16
+        }
+    ],
+    "breakpoints": []
+}

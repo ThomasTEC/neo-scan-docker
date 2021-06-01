@@ -1,0 +1,557 @@
+{
+    "avm": {
+        "name": "NEP_5",
+        "hash": "4e82b63b708b82359c57279bfa622f37"
+    },
+    "compiler": {
+        "name": "neo-boa",
+        "version": "0.5.6"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "/neo-python/smart-contracts/NEP_5.py"
+        },
+        {
+            "id": 2,
+            "url": "/usr/local/lib/python3.6/dist-packages/boa/builtins.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 14,
+            "end": 39,
+            "file": 1,
+            "method": "Main",
+            "line": 28,
+            "file_line_no": 81
+        },
+        {
+            "start": 40,
+            "end": 58,
+            "file": 1,
+            "method": "Main",
+            "line": 32,
+            "file_line_no": 85
+        },
+        {
+            "start": 59,
+            "end": 68,
+            "file": 1,
+            "method": "Main",
+            "line": 35,
+            "file_line_no": 88
+        },
+        {
+            "start": 69,
+            "end": 74,
+            "file": 1,
+            "method": "Main",
+            "line": 38,
+            "file_line_no": 91
+        },
+        {
+            "start": 75,
+            "end": 87,
+            "file": 1,
+            "method": "Main",
+            "line": 41,
+            "file_line_no": 94
+        },
+        {
+            "start": 88,
+            "end": 117,
+            "file": 1,
+            "method": "Main",
+            "line": 43,
+            "file_line_no": 96
+        },
+        {
+            "start": 118,
+            "end": 147,
+            "file": 1,
+            "method": "Main",
+            "line": 15,
+            "file_line_no": 68
+        },
+        {
+            "start": 148,
+            "end": 156,
+            "file": 1,
+            "method": "Main",
+            "line": 19,
+            "file_line_no": 72
+        },
+        {
+            "start": 157,
+            "end": 206,
+            "file": 1,
+            "method": "Main",
+            "line": 23,
+            "file_line_no": 76
+        },
+        {
+            "start": 207,
+            "end": 211,
+            "file": 1,
+            "method": "Main",
+            "line": 24,
+            "file_line_no": 77
+        },
+        {
+            "start": 212,
+            "end": 220,
+            "file": 1,
+            "method": "Main",
+            "line": 27,
+            "file_line_no": 80
+        },
+        {
+            "start": 221,
+            "end": 232,
+            "file": 1,
+            "method": "Main",
+            "line": 29,
+            "file_line_no": 82
+        },
+        {
+            "start": 233,
+            "end": 239,
+            "file": 1,
+            "method": "Main",
+            "line": 30,
+            "file_line_no": 83
+        },
+        {
+            "start": 240,
+            "end": 255,
+            "file": 1,
+            "method": "Main",
+            "line": 32,
+            "file_line_no": 85
+        },
+        {
+            "start": 256,
+            "end": 262,
+            "file": 1,
+            "method": "Main",
+            "line": 33,
+            "file_line_no": 86
+        },
+        {
+            "start": 263,
+            "end": 276,
+            "file": 1,
+            "method": "Main",
+            "line": 35,
+            "file_line_no": 88
+        },
+        {
+            "start": 277,
+            "end": 283,
+            "file": 1,
+            "method": "Main",
+            "line": 36,
+            "file_line_no": 89
+        },
+        {
+            "start": 284,
+            "end": 302,
+            "file": 1,
+            "method": "Main",
+            "line": 38,
+            "file_line_no": 91
+        },
+        {
+            "start": 303,
+            "end": 309,
+            "file": 1,
+            "method": "Main",
+            "line": 39,
+            "file_line_no": 92
+        },
+        {
+            "start": 310,
+            "end": 326,
+            "file": 1,
+            "method": "Main",
+            "line": 41,
+            "file_line_no": 94
+        },
+        {
+            "start": 327,
+            "end": 360,
+            "file": 1,
+            "method": "Main",
+            "line": 42,
+            "file_line_no": 95
+        },
+        {
+            "start": 361,
+            "end": 370,
+            "file": 1,
+            "method": "Main",
+            "line": 43,
+            "file_line_no": 96
+        },
+        {
+            "start": 371,
+            "end": 384,
+            "file": 1,
+            "method": "Main",
+            "line": 44,
+            "file_line_no": 97
+        },
+        {
+            "start": 385,
+            "end": 400,
+            "file": 1,
+            "method": "Main",
+            "line": 46,
+            "file_line_no": 99
+        },
+        {
+            "start": 401,
+            "end": 434,
+            "file": 1,
+            "method": "Main",
+            "line": 47,
+            "file_line_no": 100
+        },
+        {
+            "start": 435,
+            "end": 444,
+            "file": 1,
+            "method": "Main",
+            "line": 48,
+            "file_line_no": 101
+        },
+        {
+            "start": 445,
+            "end": 454,
+            "file": 1,
+            "method": "Main",
+            "line": 49,
+            "file_line_no": 102
+        },
+        {
+            "start": 455,
+            "end": 464,
+            "file": 1,
+            "method": "Main",
+            "line": 50,
+            "file_line_no": 103
+        },
+        {
+            "start": 465,
+            "end": 549,
+            "file": 1,
+            "method": "Main",
+            "line": 51,
+            "file_line_no": 104
+        },
+        {
+            "start": 550,
+            "end": 583,
+            "file": 1,
+            "method": "AssertionError",
+            "line": 53,
+            "file_line_no": 244
+        },
+        {
+            "start": 584,
+            "end": 614,
+            "file": 1,
+            "method": "AssertionError",
+            "line": 10,
+            "file_line_no": 201
+        },
+        {
+            "start": 615,
+            "end": 635,
+            "file": 1,
+            "method": "CheckWitnessOrCaller",
+            "line": 11,
+            "file_line_no": 177
+        },
+        {
+            "start": 636,
+            "end": 670,
+            "file": 1,
+            "method": "CheckWitnessOrCaller",
+            "line": 14,
+            "file_line_no": 180
+        },
+        {
+            "start": 671,
+            "end": 680,
+            "file": 1,
+            "method": "CheckWitnessOrCaller",
+            "line": 15,
+            "file_line_no": 181
+        },
+        {
+            "start": 681,
+            "end": 685,
+            "file": 1,
+            "method": "CheckWitnessOrCaller",
+            "line": 16,
+            "file_line_no": 182
+        },
+        {
+            "start": 686,
+            "end": 690,
+            "file": 1,
+            "method": "CheckWitnessOrCaller",
+            "line": 21,
+            "file_line_no": 187
+        },
+        {
+            "start": 691,
+            "end": 752,
+            "file": 1,
+            "method": "do_transfer",
+            "line": 23,
+            "file_line_no": 144
+        },
+        {
+            "start": 753,
+            "end": 779,
+            "file": 1,
+            "method": "do_transfer",
+            "line": 16,
+            "file_line_no": 137
+        },
+        {
+            "start": 780,
+            "end": 814,
+            "file": 1,
+            "method": "do_transfer",
+            "line": 17,
+            "file_line_no": 138
+        },
+        {
+            "start": 815,
+            "end": 847,
+            "file": 1,
+            "method": "do_transfer",
+            "line": 18,
+            "file_line_no": 139
+        },
+        {
+            "start": 848,
+            "end": 888,
+            "file": 1,
+            "method": "do_transfer",
+            "line": 19,
+            "file_line_no": 140
+        },
+        {
+            "start": 889,
+            "end": 898,
+            "file": 1,
+            "method": "do_transfer",
+            "line": 21,
+            "file_line_no": 142
+        },
+        {
+            "start": 899,
+            "end": 933,
+            "file": 1,
+            "method": "do_transfer",
+            "line": 22,
+            "file_line_no": 143
+        },
+        {
+            "start": 934,
+            "end": 938,
+            "file": 1,
+            "method": "do_transfer",
+            "line": 23,
+            "file_line_no": 144
+        },
+        {
+            "start": 939,
+            "end": 968,
+            "file": 1,
+            "method": "do_transfer",
+            "line": 25,
+            "file_line_no": 146
+        },
+        {
+            "start": 969,
+            "end": 1001,
+            "file": 1,
+            "method": "do_transfer",
+            "line": 26,
+            "file_line_no": 147
+        },
+        {
+            "start": 1002,
+            "end": 1011,
+            "file": 1,
+            "method": "do_transfer",
+            "line": 28,
+            "file_line_no": 149
+        },
+        {
+            "start": 1012,
+            "end": 1043,
+            "file": 1,
+            "method": "do_transfer",
+            "line": 29,
+            "file_line_no": 150
+        },
+        {
+            "start": 1044,
+            "end": 1055,
+            "file": 1,
+            "method": "do_transfer",
+            "line": 32,
+            "file_line_no": 153
+        },
+        {
+            "start": 1056,
+            "end": 1085,
+            "file": 1,
+            "method": "do_transfer",
+            "line": 33,
+            "file_line_no": 154
+        },
+        {
+            "start": 1086,
+            "end": 1115,
+            "file": 1,
+            "method": "do_transfer",
+            "line": 35,
+            "file_line_no": 156
+        },
+        {
+            "start": 1116,
+            "end": 1127,
+            "file": 1,
+            "method": "do_transfer",
+            "line": 37,
+            "file_line_no": 158
+        },
+        {
+            "start": 1128,
+            "end": 1156,
+            "file": 1,
+            "method": "do_transfer",
+            "line": 39,
+            "file_line_no": 160
+        },
+        {
+            "start": 1157,
+            "end": 1198,
+            "file": 1,
+            "method": "do_transfer",
+            "line": 41,
+            "file_line_no": 162
+        },
+        {
+            "start": 1199,
+            "end": 1215,
+            "file": 1,
+            "method": "do_balance_of",
+            "line": 43,
+            "file_line_no": 151
+        },
+        {
+            "start": 1216,
+            "end": 1245,
+            "file": 1,
+            "method": "do_balance_of",
+            "line": 10,
+            "file_line_no": 118
+        },
+        {
+            "start": 1246,
+            "end": 1286,
+            "file": 2,
+            "method": "range",
+            "line": 11,
+            "file_line_no": 84
+        },
+        {
+            "start": 1287,
+            "end": 1298,
+            "file": 2,
+            "method": "range",
+            "line": 9,
+            "file_line_no": 82
+        },
+        {
+            "start": 1299,
+            "end": 1307,
+            "file": 2,
+            "method": "range",
+            "line": 11,
+            "file_line_no": 84
+        },
+        {
+            "start": 1308,
+            "end": 1313,
+            "file": 2,
+            "method": "range",
+            "line": 13,
+            "file_line_no": 86
+        },
+        {
+            "start": 1314,
+            "end": 1321,
+            "file": 2,
+            "method": "range",
+            "line": 15,
+            "file_line_no": 88
+        },
+        {
+            "start": 1322,
+            "end": 1333,
+            "file": 2,
+            "method": "range",
+            "line": 17,
+            "file_line_no": 90
+        },
+        {
+            "start": 1334,
+            "end": 1345,
+            "file": 2,
+            "method": "range",
+            "line": 18,
+            "file_line_no": 91
+        },
+        {
+            "start": 1346,
+            "end": 1356,
+            "file": 2,
+            "method": "range",
+            "line": 19,
+            "file_line_no": 92
+        },
+        {
+            "start": 1357,
+            "end": 1366,
+            "file": 2,
+            "method": "range",
+            "line": 20,
+            "file_line_no": 93
+        },
+        {
+            "start": 1367,
+            "end": 1384,
+            "file": 2,
+            "method": "range",
+            "line": 21,
+            "file_line_no": 94
+        },
+        {
+            "start": 1385,
+            "end": 1390,
+            "file": 2,
+            "line": 23
+        }
+    ],
+    "breakpoints": []
+}
